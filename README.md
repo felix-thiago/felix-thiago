@@ -1,5 +1,5 @@
-### Eai? 👍
-## Me chamo Thiago Félix
+# Olá! 😎
+## Eu sou o Thiago Félix
 
 - 🔭 Estou trabalhando em um projeto do ramo bancário, pela empresa Sofftek
 - 🌱 Estou estudando Python, Azure e SQL
