@@ -1,4 +1,4 @@
-<h1 align="center">🎲 Thiago | Data Engineer & Fã de RPG</h1>
+<h1 align="center">🎲 Thiago Felix | Data Engineer & Fã de RPG</h1>
 <h3 align="center">Transformando dados em narrativas épicas ⚔️📊</h3>
 
 <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100%" />
@@ -31,9 +31,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felix-thiago&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix-thiago&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-f%C3%A9lix/)  
-[![Gmail](https://img.shields.io/badge/-thiago@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:thiagofelix.bdd@gmail.com)
+[![Gmail](https://img.shields.io/badge/-thiagofelix.bdd@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:thiagofelix.bdd@gmail.com)
 
 ---
 
