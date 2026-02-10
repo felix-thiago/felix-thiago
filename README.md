@@ -15,8 +15,8 @@
 
 Profissional especializado em **engenharia de dados** e **desenvolvimento de soluções** na plataforma **Palantir Foundry**. Experiência em construção de pipelines de dados em larga escala, modelagem ontológica e desenvolvimento de aplicações analíticas.
 
-Bacharel em Sistemas de Informação pelo Senac e cursando MBA em Engenharia de Dados na FIAP. 
 ---
+### Bacharel em Sistemas de Informação pelo Senac e cursando MBA em Engenharia de Dados na FIAP. 
 
 ## 🛠️ Tech Stack
 
