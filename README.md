@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Olá, eu sou Thiago Felix
+# Eai? Thiago Felix aqui :)
 
 ### 🚀 Data Engineer | Palantir Foundry Builder
 
