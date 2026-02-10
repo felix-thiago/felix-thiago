@@ -1,69 +1,54 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #3B3B3B;">🎲 Thiago Felix | Data Engineer & Fã de RPG</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555555;">Transformando dados em narrativas épicas ⚔️📊</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" 
-       style="border-radius: 10px; border: 5px solid #f0f0f0; width: 50%;">
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-- 🔭 Atualmente focado em projetos de **engenharia de dados e cloud**
-- 🌱 Estudando **Databricks, Airflow, Spark e boas práticas de DataOps**
-- 🎲 Viciado em RPG e **estruturas complexas de dados (ou de dungeons!)**
-- 💡 Acredito que dados bem tratados são como bons aliados: **te ajudam a vencer qualquer campanha**
-
----
-
-## 🧰 Ferramentas e Tecnologias
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
+  
+# 👋 Olá, eu sou Thiago Felix
+
+### 🚀 Data Engineer | Palantir Foundry Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felix-thiago)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felix-thiago&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix-thiago&layout=compact&theme=radical" width="45%" />
-</p>
+## 🎯 Sobre Mim
+
+Profissional especializado em **engenharia de dados** e **desenvolvimento de soluções** na plataforma **Palantir Foundry**. Experiência em construção de pipelines de dados em larga escala, modelagem ontológica e desenvolvimento de aplicações analíticas.
 
 ---
 
-## 🧙 Curiosidades RPGísticas
+## 🛠️ Tech Stack
 
-- 💬 “Qual seu maior defeito?”  
-  **Resposta:** Deployar em produção sem rolar um perception antes.
-
-- 🗡️ Classe favorita: **Bardo tecnológico** – sim, porque dados também contam histórias
-- 📚 Campanhas favoritas: as que envolvem decisões difíceis e bons dados (ou dados d20 sortudos)
-- 🎯 Atributo mais alto: **Inteligência** (mas já investi uns pontos em Carisma)
-
----
-
-## 🌐 Contato
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-f%C3%A9lix/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thiagofelix.bdd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-thiagofelix.bdd@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
+
+### 💻 Linguagens & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🏗️ Palantir Foundry
+![Foundry](https://img.shields.io/badge/Palantir_Foundry-101113?style=for-the-badge&logo=palantir&logoColor=white)
+
+| Módulo | Experiência |
+|--------|-------------|
+| 🔄 **Pipeline Builder** | Construção de ETL/ELT pipelines |
+| 🧩 **Ontology** | Modelagem de Object Types & Link Types |
+| ⚡ **Functions** | TypeScript & Python Functions |
+| 🎬 **Actions** | Workflows e automações |
+| 📊 **Workshop** | Aplicações operacionais |
+| 🔌 **Data Connection** | Integrações com fontes externas |
+| 📈 **Quiver/Contour** | Análise exploratória de dados |
+
 </div>
 
 ---
 
-<p align="center">
-  <br />
-  <i style="font-style: italic; color: #666;">"Rolar um d20 nem sempre garante acerto... mas com os dados certos, você sempre tem vantagem."</i>
-</p>
+## 📊 Competências Foundry
+
+```text
+Data Pipeline Development   ████████████████████░   95%
+Ontology Modeling           ███████████████████░░   90%
+Workshop Applications       ██████████████████░░░   85%
+Functions (TS/Python)       █████████████████░░░░   80%
+Data Integration            ████████████████░░░░░   75%
