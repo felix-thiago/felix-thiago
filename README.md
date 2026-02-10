@@ -2,7 +2,7 @@
   
 # Eai? Thiago Felix aqui :)
 
-### 🚀 Data Engineer | Palantir Foundry Builder
+### Data Engineer | Palantir Foundry Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-thiago/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felix-thiago)
@@ -14,6 +14,7 @@
 ## 🎯 Sobre Mim
 
 Profissional especializado em **engenharia de dados** e **desenvolvimento de soluções** na plataforma **Palantir Foundry**. Experiência em construção de pipelines de dados em larga escala, modelagem ontológica e desenvolvimento de aplicações analíticas.
+
 Bacharel em Sistemas de Informação pelo Senac e cursando MBA em Engenharia de Dados na FIAP. 
 ---
 
