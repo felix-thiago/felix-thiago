@@ -12,10 +12,10 @@
 
 Engenheiro de Dados com trajetória interdisciplinar em **Analytics**, **Sustentação Backend** e **Automações**. Essa vivência me permite construir pontes sólidas entre regras de negócio complexas e soluções de dados escaláveis, resilientes e orientadas a valor.
 
-- 🏢 Atuando na **Fundação Butantan**, desenhando e sustentando pipelines ponta a ponta, integrações de legados corporativos e produtos de dados.
-- ⚙️ Experiência prática no ecossistema corporativo **Palantir Foundry** (arquitetura de ontologias, transformação de dados e automações de processos de negócio).
-- 🧩 Postura técnica **agnóstica**: foco em arquiteturas modulares, reutilizáveis e eficientes, priorizando a melhor ferramenta para o problema real.
-- 🎓 Graduado em **Sistemas de Informação (SENAC)** | Cursando **MBA em Engenharia de Dados (FIAP)**.
+-  Atuando na **Fundação Butantan**, desenhando e sustentando pipelines ponta a ponta, integrações de legados corporativos e produtos de dados.
+-  Experiência prática no ecossistema corporativo **Palantir Foundry** (arquitetura de ontologias, transformação de dados e automações de processos de negócio).
+-  Postura técnica **agnóstica**: foco em arquiteturas modulares, reutilizáveis e eficientes, priorizando a melhor ferramenta para o problema real.
+-  Graduado em **Sistemas de Informação (SENAC)** | Cursando **MBA em Engenharia de Dados (FIAP)**.
 
 ---
 
@@ -24,9 +24,9 @@ Engenheiro de Dados com trajetória interdisciplinar em **Analytics**, **Sustent
 | Área | Tecnologias & Frameworks |
 | :--- | :--- |
 | **Linguagens & Core** | Python, PySpark, SQL, Java |
-| **Engenharia & Orquestração** | Apache Spark, Apache Airflow, Docker, Git |
+| **Engenharia & Orquestração** | Apache Spark, Apache Airflow, Docker, Git, Dbt |
 | **Ecossistemas Corporativos & Plataformas** | Palantir Foundry (Ontology, Pipeline Builder, Code Workspaces) |
-| **Bancos de Dados & Modelagem** | Oracle, PostgreSQL, Modelagem Dimensional & Relacional |
+| **Bancos de Dados & Modelagem** | Oracle, PostgreSQL, Microsoft SQL Server, Modelagem Dimensional & Relacional |
 | **Ambientes Cloud** | Práticas e estudos em AWS, GCP e Azure |
 
 ---
