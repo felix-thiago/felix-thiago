@@ -1,55 +1,45 @@
+# Olá, sou Thiago Felix 👋
+
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-222222?style=for-the-badge" alt="Focus"/>
+</p>
+
+---
+
+### 🚀 Sobre Mim
+
+Engenheiro de Dados com trajetória interdisciplinar em **Analytics**, **Planejamento Estratégico** e **Consultoria**. Essa vivência me permite construir pontes sólidas entre regras de negócio complexas e soluções de dados escaláveis, resilientes e orientadas a valor.
+
+- 🏢 Atuando na **Fundação Butantan**, desenhando e sustentando pipelines ponta a ponta, integrações de legados corporativos e produtos de dados.
+- ⚙️ Experiência prática no ecossistema corporativo **Palantir Foundry** (arquitetura de ontologias, transformação de dados e automações de processos de negócio).
+- 🧩 Postura técnica **agnóstica**: foco em arquiteturas modulares, reutilizáveis e eficientes, priorizando a melhor ferramenta para o problema real.
+- 🎓 Graduado em **Sistemas de Informação (SENAC)** | Cursando **MBA em Engenharia de Dados (FIAP)**.
+
+---
+
+### 🛠️ Stack & Tecnologias
+
+| Área | Tecnologias & Frameworks |
+| :--- | :--- |
+| **Linguagens & Core** | Python, PySpark, SQL, Java |
+| **Engenharia & Orquestração** | Apache Spark, Apache Airflow, Docker, Git |
+| **Ecossistemas Corporativos & Plataformas** | Palantir Foundry (Ontology, Pipeline Builder, Code Workspaces) |
+| **Bancos de Dados & Modelagem** | Oracle, PostgreSQL, Modelagem Dimensional & Relacional |
+| **Ambientes Cloud** | Práticas e estudos em AWS, GCP e Azure |
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  
-# Eai? Thiago Felix aqui :)
-
-### Data Engineer | Palantir Foundry Builder
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-thiago/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felix-thiago)
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felix-thiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix-thiago&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-## 🎯 Sobre Mim
-
-Profissional especializado em **engenharia de dados** e **desenvolvimento de soluções** na plataforma **Palantir Foundry**. Experiência em construção de pipelines de dados em larga escala, modelagem ontológica e desenvolvimento de aplicações analíticas.
-
----
-### Bacharel em Sistemas de Informação pelo Senac e cursando MBA em Engenharia de Dados na FIAP. 
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🏗️ Palantir Foundry
-![Foundry](https://img.shields.io/badge/Palantir_Foundry-101113?style=for-the-badge&logo=palantir&logoColor=white)
-
-| Módulo | Experiência |
-|--------|-------------|
-| 🔄 **Pipeline Builder** | Construção de ETL/ELT pipelines |
-| 🧩 **Ontology** | Modelagem de Object Types & Link Types |
-| ⚡ **Functions** | TypeScript & Python Functions |
-| 🎬 **Actions** | Workflows e automações |
-| 📊 **Workshop** | Aplicações operacionais |
-| 🔌 **Data Connection** | Integrações com fontes externas |
-| 📈 **Quiver/Contour** | Análise exploratória de dados |
-
-</div>
-
----
-
-## 📊 Competências Foundry
-
-```text
-Data Pipeline Development   ████████████████████░   95%
-Ontology Modeling           ███████████████████░░   90%
-Workshop Applications       ██████████████████░░░   85%
-Functions (TS/Python)       █████████████████░░░░   80%
-Data Integration            ████████████████░░░░░   75%
+<p align="center">
+  <i>Construindo soluções robustas onde engenharia de software e inteligência de negócios se encontram.</i>
+</p>
