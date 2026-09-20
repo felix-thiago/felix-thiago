@@ -31,12 +31,14 @@ Engenheiro de Dados com trajetória interdisciplinar em **Analytics**, **Sustent
 
 ---
 
-### 📊 GitHub Stats
+Markdown
+### 📊 Métricas do GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felix-thiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix-thiago&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/felix-thiago?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Building%20Pipelines-blue?style=for-the-badge&logo=apache-spark" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Modern%20Data%20Stack-orange?style=for-the-badge" alt="Focus" />
+</p>
 
 ---
 
