@@ -1,47 +1,35 @@
-# Olá, me chamo Thiago Felix! 
+## Hi, I'm Thiago Felix 👋
 
+### About me
+Data Engineer building reliable, high-performance data pipelines and analytics infrastructure.
+- Experience building scalable data pipelines, ETL/ELT workflows, and Lakehouse architectures;
+- Hands-on experience developing enterprise data solutions with Palantir Foundry, PySpark, Python, and SQL;
+- Solid background in data governance, data modeling, relational databases, and data quality frameworks;
+- Experience with cross-cloud data workflows, containerization with Docker, and CI/CD version control;
+- Bachelor in Information Systems (Senac) and MBA in Data Engineering (FIAP).
+
+### Tech Stack & Tools
 <p align="left">
-  <a href="https://linkedin.com/in/felix-thiago"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:thiagofelix.bdd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-222222?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 🚀 Sobre Mim
-
-Engenheiro de Dados com trajetória interdisciplinar em **Analytics**, **Sustentação Backend** e **Automações**. Essa vivência me permite construir pontes sólidas entre regras de negócio complexas e soluções de dados escaláveis, resilientes e orientadas a valor.
-
--  Atuando na **Fundação Butantan**, desenhando e sustentando pipelines ponta a ponta, integrações de legados corporativos e produtos de dados.
--  Experiência prática no ecossistema corporativo **Palantir Foundry** (arquitetura de ontologias, transformação de dados e automações de processos de negócio).
--  Postura técnica **agnóstica**: foco em arquiteturas modulares, reutilizáveis e eficientes, priorizando a melhor ferramenta para o problema real.
--  Graduado em **Sistemas de Informação (SENAC)** | Cursando **MBA em Engenharia de Dados (FIAP)**.
-
----
-
-### 🛠️ Stack & Tecnologias
-
-| Área | Tecnologias & Frameworks |
-| :--- | :--- |
-| **Linguagens & Core** | Python, PySpark, SQL, Java |
-| **Engenharia & Orquestração** | Apache Spark, Apache Airflow, Docker, Git, Dbt |
-| **Ecossistemas Corporativos & Plataformas** | Palantir Foundry (Ontology, Pipeline Builder, Code Workspaces) |
-| **Bancos de Dados & Modelagem** | Oracle, PostgreSQL, Microsoft SQL Server, Modelagem Dimensional & Relacional |
-| **Ambientes Cloud** | Práticas e estudos em AWS, GCP e Azure |
-
----
-
-Markdown
-### 📊 Métricas do GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/felix-thiago?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Building%20Pipelines-blue?style=for-the-badge&logo=apache-spark" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Modern%20Data%20Stack-orange?style=for-the-badge" alt="Focus" />
+### GitHub Stats
+<p align="left">
+  <a href="https://github.com/felix-thiago">
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=felix-thiago&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD" />
+  </a>
 </p>
 
----
-
-<p align="center">
-  <i>Construindo soluções robustas onde engenharia de software e inteligência de negócios se encontram.</i>
+### Let's connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
